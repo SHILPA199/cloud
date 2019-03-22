@@ -1,0 +1,6 @@
+printf<head>
+sanf<insert>
+{
+pint add("add hi");
+{ 
+exit};
